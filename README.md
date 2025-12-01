@@ -1,4 +1,4 @@
-# 鷺巣詩郎 – VOYAGER～日付のない墓標
+# Yumi Matsutoya – VOYAGER ～ 日付のない墓標
 
 > **歌詞登録ステータス：同期歌詞あり**
 
