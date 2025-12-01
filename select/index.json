@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "VOYAGER～日付のない墓標",
+  "base_artist": "鷺巣詩郎",
+  "createdAt": "2025-12-01T13:42:16.486474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VOYAGER ～ 日付のない墓標",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/01_VOYAGER_~_日付のない墓標_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VOYAGER~日付のない墓標~ - 2022 mix",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/02_VOYAGER~日付のない墓標~_-_2022_mix_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "VOYAGER ～日付のない墓標～ [2022 Mix]",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/03_VOYAGER_~日付のない墓標~_[2022_Mix]_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "VOYAGER ～ 日付のない墓標 (Remastered 2019)",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/04_VOYAGER_~_日付のない墓標_(Remastered_2019)_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VOYAGER〜日付のない墓標",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/05_VOYAGER〜日付のない墓標_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VOYAGER～日付のない墓標～ (2022 mix)",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/06_VOYAGER~日付のない墓標~_(2022_mix)_松任谷由実.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VOYAGER ～日付のない墓標～",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_VOYAGER_~日付のない墓標~_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "VOYAGER～日付のない墓標",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_02_VOYAGER~日付のない墓標_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "VOYAGER～日付のない墓標",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_03_VOYAGER~日付のない墓標_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "VOYAGER ~ 日付のない墓標",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_04_VOYAGER_~_日付のない墓標_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "VOYAGER～日付のない墓標",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_05_VOYAGER~日付のない墓標_松任谷_由実.txt"
+    }
+  ]
+}
